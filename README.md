@@ -24,3 +24,7 @@ Quick Start
 ![Screenshot](/_ReadMeImages/SO201000.png)
 3. Navigate to Sales Orders Screen (SO301000) and select the Order Type for which you have specified the Attributes in Step # 2, you should be able to see Attributes specified in Step # 2 and can specify value for them.
 ![Screenshot](/_ReadMeImages/SO301000.png)
+
+Known Issues
+------------
+None at the moment
