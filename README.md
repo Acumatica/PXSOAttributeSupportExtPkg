@@ -4,7 +4,7 @@ Adding Attribute Support to out-of-box Sales Order Entity
 ==================================
 An extension that allows to add attribute support to out-of-box Sales Order Entity.
 
-###Prerequisites
+### Prerequisites
 * Acumatica 6.0 or higher
 
 Quick Start
